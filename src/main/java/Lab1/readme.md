@@ -14,4 +14,4 @@ _Sept.5, 2025_
   into the readme.md file
 
 ### Required Image:
-<img width="1872" height="939" alt="Required_Image" src="https://github.com/user-attachments/assets/2cd465a6-eb8b-4447-9378-6d535aee1e8f" />
+<img width="1876" height="941" alt="Required_Image" src="https://github.com/user-attachments/assets/494656a3-d3de-42f1-93ea-0b8e60ebff65" />
