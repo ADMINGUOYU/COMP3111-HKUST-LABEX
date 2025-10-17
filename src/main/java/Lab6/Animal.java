@@ -16,7 +16,7 @@ public class Animal
 	}
 
     // accessor
-	public double getWeight() { return weight;}
+	public double getWeight() { return weight; }
 	public boolean isAlive() { return alive; }
 
     // functional
